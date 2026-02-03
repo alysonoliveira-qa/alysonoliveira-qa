@@ -1,4 +1,4 @@
-![Banner de Quality Engineering](Quality_Enginnering.png)
+![Banner de Quality Engineering](Banner_Post_GitHub.png)
 <h1 align="center">Hi, I'm Alyson Oliveira 👋</h1>
 
 <h3 align="center">
