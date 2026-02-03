@@ -67,7 +67,7 @@ This repository is being used as a **QA Automation Portfolio Case**, where I app
 
 ## 📬 Let’s Connect
 
-- 💼 LinkedIn: <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7424273716685156352?collapsed=1" height="559" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>  
+- 💼 LinkedIn:  [https://www.linkedin.com/feed/](https://www.linkedin.com/in/alyson-r-de-oliveira-33a1a485/)
 - 🧪 GitHub: You are here 😉  
 
 I’m always open to discussions about **quality, automation, and engineering culture**.
