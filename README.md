@@ -1,5 +1,7 @@
 ![Banner de Quality Engineering](Banner_Post_GitHub.png)
 
+🇧🇷 [Versão em Português](README-PT.md)
+
 ## 👋 Hi, I'm Alyson Oliveira
 
 I'm a **Quality Assurance professional in clear transition to Quality Engineering**, focused on automation, testing strategy, and engineering mindset.
@@ -54,7 +56,7 @@ https://github.com/alysonoliveira-qa/cypress-realworld-app
 
 ## 🌍 Languages
 
-- 🇺🇸 English (B2 – strong reading & listening, working communication)  
+- 🇺🇸 English (B2 – strong reading & listening, working communication in professional environment)  
 - 🇧🇷 Portuguese (native)
 
 ---
