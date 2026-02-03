@@ -45,5 +45,12 @@ Iniciei minha trajetória com testes manuais e funcionais, mas ao longo do tempo
 
 ---
 
+## 🔗 Minhas Conexões
+
+- 💼 LinkedIn: https://www.linkedin.com/in/alyson-oliveira  
+- 💻 GitHub: https://github.com/alysonoliveira-qa  
+
+---
+
 📌 *Este perfil reflete minha evolução contínua de QA para Quality Engineer, baseada em prática real, automação e comunicação clara.*
 
